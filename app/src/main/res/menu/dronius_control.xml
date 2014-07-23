@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".DroniusControlActivity" >
+    <item android:id="@+id/action_connected"
+        android:checkable="true"
+        android:title="@string/action_connected"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>

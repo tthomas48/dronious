@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GoogleCastSdkAndroid">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/GoogleCastSdkAndroid.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
